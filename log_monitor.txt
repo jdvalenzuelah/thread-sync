@@ -1,0 +1,368 @@
+Thread started id: 28287 
+Starting for loop inside thread 28287
+Iter 0 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 99
+Mutex unlock
+Iter 1 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 98
+Mutex unlock
+Iter 2 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 97
+Mutex unlock
+Iter 3 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 96
+Mutex unlock
+Iter 4 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 95
+Mutex unlock
+Iter 5 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 94
+Mutex unlock
+Iter 6 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 93
+Mutex unlock
+Iter 7 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 92
+Mutex unlock
+Iter 8 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 91
+Mutex unlock
+Iter 9 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 90
+Mutex unlock
+Iter 10 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 89
+Mutex unlock
+Iter 11 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 88
+Mutex unlock
+Iter 12 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 87
+Mutex unlock
+Iter 13 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 86
+Mutex unlock
+Iter 14 on thread 28287
+Mutex locked from thread ID: 28287
+Blocking mutex 
+Consumed resource
+Remaining resource 85
+Mutex unlock
+Thread started id: 28286 
+Starting for loop inside thread 28286
+Iter 0 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 84
+Mutex unlock
+Iter 1 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 83
+Mutex unlock
+Iter 2 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 82
+Mutex unlock
+Iter 3 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 81
+Mutex unlock
+Iter 4 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 80
+Mutex unlock
+Iter 5 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 79
+Mutex unlock
+Iter 6 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 78
+Mutex unlock
+Iter 7 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 77
+Mutex unlock
+Iter 8 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 76
+Mutex unlock
+Iter 9 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 75
+Mutex unlock
+Iter 10 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 74
+Mutex unlock
+Iter 11 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 73
+Mutex unlock
+Iter 12 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 72
+Mutex unlock
+Iter 13 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 71
+Mutex unlock
+Iter 14 on thread 28286
+Mutex locked from thread ID: 28286
+Blocking mutex 
+Consumed resource
+Remaining resource 70
+Mutex unlock
+Thread started id: 28285 
+Starting for loop inside thread 28285
+Iter 0 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 69
+Mutex unlock
+Iter 1 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 68
+Mutex unlock
+Iter 2 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 67
+Mutex unlock
+Iter 3 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 66
+Mutex unlock
+Iter 4 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 65
+Mutex unlock
+Iter 5 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 64
+Mutex unlock
+Iter 6 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 63
+Mutex unlock
+Iter 7 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 62
+Mutex unlock
+Iter 8 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 61
+Mutex unlock
+Iter 9 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 60
+Mutex unlock
+Iter 10 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 59
+Mutex unlock
+Iter 11 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 58
+Mutex unlock
+Iter 12 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 57
+Mutex unlock
+Iter 13 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 56
+Mutex unlock
+Iter 14 on thread 28285
+Mutex locked from thread ID: 28285
+Blocking mutex 
+Consumed resource
+Remaining resource 55
+Mutex unlock
+Thread started id: 28284 
+Starting for loop inside thread 28284
+Iter 0 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 54
+Mutex unlock
+Iter 1 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 53
+Mutex unlock
+Iter 2 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 52
+Mutex unlock
+Iter 3 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 51
+Mutex unlock
+Iter 4 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 50
+Mutex unlock
+Iter 5 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 49
+Mutex unlock
+Iter 6 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 48
+Mutex unlock
+Iter 7 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 47
+Mutex unlock
+Iter 8 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 46
+Mutex unlock
+Iter 9 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 45
+Mutex unlock
+Iter 10 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 44
+Mutex unlock
+Iter 11 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 43
+Mutex unlock
+Iter 12 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 42
+Mutex unlock
+Iter 13 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 41
+Mutex unlock
+Iter 14 on thread 28284
+Mutex locked from thread ID: 28284
+Blocking mutex 
+Consumed resource
+Remaining resource 40
+Mutex unlock
