@@ -1,0 +1,36 @@
+Thread started id: 16600 
+Starting for loop inside thread 16600
+Iter 0 on thread 16600
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 16600 using shared resource
+Increase counter to 1 on thread 16600 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 16600.
+Thread started id: 16599 
+Starting for loop inside thread 16599
+Iter 0 on thread 16599
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 16599 using shared resource
+Increase counter to 2 on thread 16599 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 16599.
+Thread started id: 16597 
+Starting for loop inside thread 16597
+Iter 0 on thread 16597
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 16597 using shared resource
+Increase counter to 3 on thread 16597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 16597.
+Thread started id: 16598 
+Starting for loop inside thread 16598
+Iter 0 on thread 16598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 16598 using shared resource
+Increase counter to 4 on thread 16598 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 16598.
+thread exit tid 16600
+thread exit tid 16599
+thread exit tid 16597
+thread exit tid 16598
