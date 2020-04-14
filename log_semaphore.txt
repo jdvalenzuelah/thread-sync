@@ -1,36 +1,428 @@
-Thread started id: 16600 
-Starting for loop inside thread 16600
-Iter 0 on thread 16600
+Thread started id: 23597 
+Starting for loop inside thread 23597
+Iter 0 on thread 23597
 Acquiring resource, sending wait to semaphore...
-wait signal send correctly on thread 16600 using shared resource
-Increase counter to 1 on thread 16600 
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 1 on thread 23597 
 Unlocking resource, sending post to semaphore...
-Post signal succesful tid 16600.
-Thread started id: 16599 
-Starting for loop inside thread 16599
-Iter 0 on thread 16599
+Post signal succesful tid 23597.
+Thread started id: 23596 
+Starting for loop inside thread 23596
+Iter 0 on thread 23596
 Acquiring resource, sending wait to semaphore...
-wait signal send correctly on thread 16599 using shared resource
-Increase counter to 2 on thread 16599 
+wait signal send correctly on thread 23596 using shared resource
+Increase counter to 2 on thread 23596 
 Unlocking resource, sending post to semaphore...
-Post signal succesful tid 16599.
-Thread started id: 16597 
-Starting for loop inside thread 16597
-Iter 0 on thread 16597
+Post signal succesful tid 23596.
+Thread started id: 23595 
+Starting for loop inside thread 23595
+Iter 0 on thread 23595
 Acquiring resource, sending wait to semaphore...
-wait signal send correctly on thread 16597 using shared resource
-Increase counter to 3 on thread 16597 
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 3 on thread 23595 
 Unlocking resource, sending post to semaphore...
-Post signal succesful tid 16597.
-Thread started id: 16598 
-Starting for loop inside thread 16598
-Iter 0 on thread 16598
+Post signal succesful tid 23595.
+Thread started id: 23598 
+Starting for loop inside thread 23598
+Iter 0 on thread 23598
 Acquiring resource, sending wait to semaphore...
-wait signal send correctly on thread 16598 using shared resource
-Increase counter to 4 on thread 16598 
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 4 on thread 23598 
 Unlocking resource, sending post to semaphore...
-Post signal succesful tid 16598.
-thread exit tid 16600
-thread exit tid 16599
-thread exit tid 16597
-thread exit tid 16598
+Post signal succesful tid 23598.
+thread exit tid 23596
+Iter 1 on thread 23596
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23596 using shared resource
+Increase counter to 5 on thread 23596 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23596.
+thread exit tid 23597
+Iter 1 on thread 23597
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 6 on thread 23597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23597.
+thread exit tid 23595
+Iter 1 on thread 23595
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 7 on thread 23595 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23595.
+thread exit tid 23598
+Iter 1 on thread 23598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 8 on thread 23598 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23598.
+thread exit tid 23595
+thread exit tid 23596
+Iter 2 on thread 23596
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23596 using shared resource
+Increase counter to 9 on thread 23596 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23596.
+thread exit tid 23597
+Iter 2 on thread 23595
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 10 on thread 23595 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23595.
+Iter 2 on thread 23597
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 11 on thread 23597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23597.
+thread exit tid 23598
+Iter 2 on thread 23598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 12 on thread 23598 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23598.
+thread exit tid 23596
+thread exit tid 23597
+thread exit tid 23598
+Iter 3 on thread 23596
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23596 using shared resource
+Increase counter to 13 on thread 23596 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23596.
+Iter 3 on thread 23598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 14 on thread 23598 
+Iter 3 on thread 23597
+Acquiring resource, sending wait to semaphore...
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23598.
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 15 on thread 23597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23597.
+thread exit tid 23595
+Iter 3 on thread 23595
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 16 on thread 23595 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23595.
+thread exit tid 23596
+Iter 4 on thread 23596
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23596 using shared resource
+Increase counter to 17 on thread 23596 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23596.
+thread exit tid 23597
+Iter 4 on thread 23597
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 18 on thread 23597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23597.
+thread exit tid 23598
+Iter 4 on thread 23598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 19 on thread 23598 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23598.
+thread exit tid 23595
+Iter 4 on thread 23595
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 20 on thread 23595 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23595.
+thread exit tid 23596
+Iter 5 on thread 23596
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23596 using shared resource
+Increase counter to 21 on thread 23596 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23596.
+thread exit tid 23597
+Iter 5 on thread 23597
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 22 on thread 23597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23597.
+thread exit tid 23598
+Iter 5 on thread 23598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 23 on thread 23598 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23598.
+thread exit tid 23595
+Iter 5 on thread 23595
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 24 on thread 23595 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23595.
+thread exit tid 23596
+Iter 6 on thread 23596
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23596 using shared resource
+Increase counter to 25 on thread 23596 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23596.
+thread exit tid 23597
+Iter 6 on thread 23597
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 26 on thread 23597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23597.
+thread exit tid 23595
+Iter 6 on thread 23595
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 27 on thread 23595 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23595.
+thread exit tid 23598
+Iter 6 on thread 23598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 28 on thread 23598 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23598.
+thread exit tid 23596
+Iter 7 on thread 23596
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23596 using shared resource
+Increase counter to 29 on thread 23596 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23596.
+thread exit tid 23597
+Iter 7 on thread 23597
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 30 on thread 23597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23597.
+thread exit tid 23595
+Iter 7 on thread 23595
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 31 on thread 23595 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23595.
+thread exit tid 23598
+Iter 7 on thread 23598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 32 on thread 23598 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23598.
+thread exit tid 23596
+Iter 8 on thread 23596
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23596 using shared resource
+Increase counter to 33 on thread 23596 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23596.
+thread exit tid 23597
+Iter 8 on thread 23597
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 34 on thread 23597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23597.
+thread exit tid 23595
+Iter 8 on thread 23595
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 35 on thread 23595 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23595.
+thread exit tid 23598
+Iter 8 on thread 23598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 36 on thread 23598 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23598.
+thread exit tid 23596
+Iter 9 on thread 23596
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23596 using shared resource
+Increase counter to 37 on thread 23596 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23596.
+thread exit tid 23597
+Iter 9 on thread 23597
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 38 on thread 23597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23597.
+thread exit tid 23595
+Iter 9 on thread 23595
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 39 on thread 23595 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23595.
+thread exit tid 23598
+Iter 9 on thread 23598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 40 on thread 23598 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23598.
+thread exit tid 23597
+Iter 10 on thread 23597
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 41 on thread 23597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23597.
+thread exit tid 23596
+Iter 10 on thread 23596
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23596 using shared resource
+Increase counter to 42 on thread 23596 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23596.
+thread exit tid 23595
+Iter 10 on thread 23595
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 43 on thread 23595 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23595.
+thread exit tid 23598
+Iter 10 on thread 23598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 44 on thread 23598 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23598.
+thread exit tid 23597
+Iter 11 on thread 23597
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 45 on thread 23597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23597.
+thread exit tid 23596
+Iter 11 on thread 23596
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23596 using shared resource
+Increase counter to 46 on thread 23596 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23596.
+thread exit tid 23595
+Iter 11 on thread 23595
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 47 on thread 23595 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23595.
+thread exit tid 23598
+Iter 11 on thread 23598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 48 on thread 23598 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23598.
+thread exit tid 23597
+Iter 12 on thread 23597
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 49 on thread 23597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23597.
+thread exit tid 23596
+Iter 12 on thread 23596
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23596 using shared resource
+Increase counter to 50 on thread 23596 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23596.
+thread exit tid 23595
+Iter 12 on thread 23595
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 51 on thread 23595 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23595.
+thread exit tid 23598
+Iter 12 on thread 23598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 52 on thread 23598 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23598.
+thread exit tid 23596
+Iter 13 on thread 23596
+Acquiring resource, sending wait to semaphore...
+thread exit tid 23597
+wait signal send correctly on thread 23596 using shared resource
+Iter 13 on thread 23597
+Increase counter to 53 on thread 23596 
+Acquiring resource, sending wait to semaphore...
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23596.
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 54 on thread 23597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23597.
+thread exit tid 23595
+Iter 13 on thread 23595
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 55 on thread 23595 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23595.
+thread exit tid 23598
+Iter 13 on thread 23598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 56 on thread 23598 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23598.
+thread exit tid 23596
+Iter 14 on thread 23596
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23596 using shared resource
+Increase counter to 57 on thread 23596 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23596.
+thread exit tid 23595
+Iter 14 on thread 23595
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23595 using shared resource
+Increase counter to 58 on thread 23595 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23595.
+thread exit tid 23598
+Iter 14 on thread 23598
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23598 using shared resource
+Increase counter to 59 on thread 23598 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23598.
+thread exit tid 23597
+Iter 14 on thread 23597
+Acquiring resource, sending wait to semaphore...
+wait signal send correctly on thread 23597 using shared resource
+Increase counter to 60 on thread 23597 
+Unlocking resource, sending post to semaphore...
+Post signal succesful tid 23597.
+thread exit tid 23596
+thread exit tid 23595
+thread exit tid 23597
+thread exit tid 23598
