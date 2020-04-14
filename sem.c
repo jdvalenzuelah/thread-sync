@@ -44,10 +44,10 @@ void * thread_runner( void * args ) {
         sem_post( &ctr );
         fprintf( log, "Post signal succesful tid %d.\n", tid);
         sleep( 1 );
-        fprintf( log, "thread exit tid %d\n", tid);
-
-        pthread_exit( NULL );
     }
+
+    fprintf( log, "thread exit tid %d\n", tid);
+    pthread_exit( NULL );
 
 
 }
